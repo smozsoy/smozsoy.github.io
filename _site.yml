@@ -1,0 +1,31 @@
+name: "S. Mehmet Ozsoy"
+output_dir: "."
+navbar:
+  title: "S. Mehmet Ozsoy"
+  left:
+    - text: "Research"
+      href: research.html
+#    - text: "Speaking"
+#      href: talks.html
+#    - text: "Programming"
+#      href: software.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "About Me"
+      href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/smozsoy
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/_Ozsoy__
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/s-mehmet-ozsoy-1a79a060/
+output:
+  html_document:
+    #theme: paper
+    #theme: flatly
+    theme: flatly
+    highlight: pygments
+    css: 'style.css'
