@@ -1,0 +1,12 @@
+---
+title: "Research"
+output: html_document
+---
+
+<img src="files/bana_elli_yetiyor.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+Here is a picture of me.
+
+My full CV is available [here](files/Ozsoy_cv.pdf).
+
+
