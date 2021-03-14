@@ -1,3 +1,0 @@
-ddd
-
-deneme ki 
