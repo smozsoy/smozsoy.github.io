@@ -5,3 +5,4 @@ output: html_document
 
 Hello, World!
 
+My [CV](files/Ozsoy_cv.pdf) is available [here](files/Ozsoy_cv.pdf).
