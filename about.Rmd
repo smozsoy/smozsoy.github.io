@@ -1,9 +1,11 @@
 ---
-title: "About Me"
+title: ""
 ---
 
-<img src="files/bana_elli_yetiyor.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<p style="margin-bottom:2cm;"> </p>
 
-Here is a picture of me.
+<img src="files/vision_rhino.png" style="width:50%; border:10px solid; margin-right: 20px" align="left">
+<!-- Selcuk Erdem, vision from a rhino  --> 
+My favorite cartoon, <i> vision from a rhino </i> by <a href="https://twitter.com/selcukerdem">Selcuk Erdem</a>.
 
-My full CV is available [here](files/Ozsoy_cv.pdf).
+
