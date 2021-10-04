@@ -3,6 +3,14 @@ title: "S. Mehmet Ozsoy"
 output: html_document
 ---
 
+<p style="margin-bottom:2cm;"> </p>
+
+
 Hello, World!
 
-My [CV](files/Ozsoy_cv.pdf) is available [here](files/Ozsoy_cv.pdf).
+I am an Assistant Professor of Financial Economics at <a href="https://www.ozyegin.edu.tr/en/faculty-business">Ozyegin University's Faculty of Business</a>. 
+
+I have received my PhD in 2013 from <a href="https://econ.duke.edu/">Duke University</a>. I was a visiting scholar at the University of Michigan's <a href="https://michiganross.umich.edu/">Ross School of Business</a>, from Sept. 2018 to Sept. 2019.
+
+
+You can find my [CV](files/Ozsoy_cv.pdf) [here](files/Ozsoy_cv.pdf).
