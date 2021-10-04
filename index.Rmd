@@ -5,6 +5,7 @@ output: html_document
 
 <p style="margin-bottom:2cm;"> </p>
 
+<img src="files/profil_bright.jpg" style="width:40%; border:10px solid; margin-right: 20px" align="left">
 
 Hello, World!
 
