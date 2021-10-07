@@ -1,9 +1,0 @@
----
-title: "Teaching"
-output: html_document
----
-
-<p style="margin-bottom:2cm;"> </p>
-
-Please check the course page on <a href="https://lms.ozyegin.edu.tr">LMS</a>.
-
